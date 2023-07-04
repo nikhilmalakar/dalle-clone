@@ -4,8 +4,8 @@ import * as dotenv from "dotenv";
 
 import connectDB from "./mongodb/connect.js";
 
-import dalleRoutes from './routes/dalleRoutes.js'
-import postRoutes from './routes/postRoutes.js'
+import dalleRoutes from './routes/dalleRoutes.js';
+import postRoutes from './routes/postRoutes.js';
 
 dotenv.config();
 
